@@ -105,7 +105,7 @@ Consultez [CONTRIBUTING](./CONTRIBUTING.md) pour les regles de contribution et [
 
 ## Avertissement
 
-Cet outil est fourni uniquement pour la **recherche en sécurité et l’apprentissage du reverse engineering**. Il ne doit pas être utilisé à des fins illégales, de triche, de vol de données ou d’abus. Tous les crashs, pertes de données, restrictions de compte, problèmes d’appareil et responsabilités légales restent à la charge de l’utilisateur.
+Cet outil est destiné à la **recherche en sécurité, à l’apprentissage de l’ingénierie inverse et aux tests techniques autorisés**. La GPL-3.0 autorise la redistribution payante lorsque le distributeur respecte intégralement la licence. Utilisez l’outil dans des environnements légaux et autorisés et respectez les règles applicables aux apps et systèmes ciblés. L’utilisateur assume la responsabilité de ses opérations, des risques et des conséquences juridiques associées.
 
 ---
 
@@ -118,6 +118,18 @@ Ce projet est open source sous GPL-3.0. Le développement repose sur la recherch
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Distribution et identité du projet
+
+Les versions officielles de VansonMod sont publiées gratuitement sur la page [Releases](https://github.com/vaenshine/VansonMod/releases) de ce dépôt.
+
+Le projet privilégie l’accès gratuit et le partage gratuit via les sources officielles. La revente payante de paquets officiels non modifiés ne bénéficie d’aucune approbation ni autorisation du mainteneur. Les droits de redistribution accordés par la GPL-3.0 restent inchangés.
+
+La GPL-3.0 autorise les tiers à redistribuer des copies originales ou modifiées contre rémunération. Les distributeurs doivent respecter toutes les obligations applicables de la GPL-3.0, notamment conserver les mentions requises, fournir la licence, donner accès au code source correspondant complet et identifier clairement les versions modifiées.
+
+Le nom VansonMod, le logo, l’icône de l’app et l’identité officielle du projet sont des identifiants protégés. Les distributeurs tiers doivent indiquer clairement leur statut indépendant et non officiel et éviter toute présentation suggérant une autorisation, un parrainage, une approbation ou une affiliation avec le projet ou son mainteneur.
+
+Consultez la [Politique relative aux marques et à la distribution](../TRADEMARKS.md) pour plus de détails.
 
 ---
 

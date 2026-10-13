@@ -105,7 +105,7 @@ Veja [CONTRIBUTING](./CONTRIBUTING.md) para regras de contribuicao e [SECURITY](
 
 ## Aviso legal
 
-Esta ferramenta destina-se apenas a **pesquisa de segurança e aprendizagem de engenharia reversa**. Não deve ser usada para fins ilegais, fraude, recolha indevida de dados ou qualquer abuso. Quaisquer crashes, perdas de dados, limitações de conta, problemas no dispositivo ou responsabilidades legais ficam totalmente a cargo do utilizador.
+Esta ferramenta destina-se a **pesquisa de segurança, aprendizagem de engenharia reversa e testes técnicos autorizados**. A GPL-3.0 permite redistribuição paga quando o distribuidor cumpre integralmente a licença. Utilize-a em ambientes legais e autorizados e respeite as regras aplicáveis das apps e dos sistemas alvo. O utilizador assume a responsabilidade pelas suas operações, riscos e consequências legais.
 
 ---
 
@@ -118,6 +118,18 @@ Este projeto é open source sob GPL-3.0. O desenvolvimento se baseia em pesquisa
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Distribuição e identidade do projeto
+
+As versões oficiais do VansonMod são publicadas gratuitamente na página de [Releases](https://github.com/vaenshine/VansonMod/releases) deste repositório.
+
+O projeto promove o acesso gratuito e a partilha gratuita através das fontes oficiais. A revenda paga de pacotes oficiais sem modificações não recebe aprovação, apoio ou autorização do mantenedor. Os direitos de redistribuição concedidos pela GPL-3.0 permanecem inalterados.
+
+A GPL-3.0 permite que terceiros redistribuam cópias originais ou modificadas mediante pagamento. Os distribuidores devem cumprir todas as obrigações aplicáveis da GPL-3.0, incluindo a preservação dos avisos exigidos, o fornecimento da licença, o acesso ao código-fonte correspondente completo e a identificação clara das versões modificadas.
+
+O nome VansonMod, o logótipo, o ícone da app e a identidade oficial do projeto são identificadores protegidos. Os distribuidores terceiros devem declarar claramente o seu estatuto independente e não oficial e evitar qualquer apresentação que sugira autorização, patrocínio, aprovação ou afiliação com o projeto ou o seu mantenedor.
+
+Consulte a [Política de marcas e distribuição](../TRADEMARKS.md) para mais detalhes.
 
 ---
 

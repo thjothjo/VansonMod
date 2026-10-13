@@ -105,7 +105,7 @@ Xem quy tac dong gop tai [CONTRIBUTING](./CONTRIBUTING.md) va bao cao bao mat ri
 
 ## Miễn trừ trách nhiệm
 
-Công cụ này chỉ dành cho **nghiên cứu bảo mật và học reverse engineering**. Không được dùng cho mục đích bất hợp pháp, giành lợi thế không công bằng hoặc đánh cắp dữ liệu. Mọi crash, mất dữ liệu, giới hạn tài khoản, lỗi thiết bị và trách nhiệm pháp lý phát sinh đều do người dùng tự chịu.
+Công cụ này dành cho **nghiên cứu bảo mật, học reverse engineering và kiểm thử kỹ thuật được cấp phép**. GPL-3.0 cho phép phân phối có thu phí khi bên phân phối tuân thủ đầy đủ giấy phép. Hãy sử dụng trong môi trường hợp pháp, được cấp phép và tuân thủ quy tắc áp dụng của app và hệ thống mục tiêu. Người dùng chịu trách nhiệm về thao tác, rủi ro và hậu quả pháp lý liên quan.
 
 ---
 
@@ -118,6 +118,18 @@ Dự án này là mã nguồn mở theo GPL-3.0. Việc phát triển dựa trê
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Phân phối và nhận diện dự án
+
+Các bản phát hành VansonMod chính thức được cung cấp miễn phí trên trang [Releases](https://github.com/vaenshine/VansonMod/releases) của kho mã này.
+
+Dự án khuyến khích truy cập miễn phí và chia sẻ miễn phí qua các nguồn chính thức. Việc bên thứ ba bán lại có thu phí các gói chính thức chưa sửa đổi không nhận được sự chứng thực, ủng hộ hoặc ủy quyền của người duy trì. Các quyền phân phối lại do GPL-3.0 cấp vẫn giữ nguyên.
+
+GPL-3.0 cho phép bên thứ ba phân phối bản gốc hoặc bản sửa đổi có thu phí. Bên phân phối phải thực hiện đầy đủ các nghĩa vụ GPL-3.0 áp dụng, bao gồm giữ nguyên các thông báo bắt buộc, cung cấp giấy phép, cung cấp quyền truy cập vào toàn bộ mã nguồn tương ứng và ghi rõ các phiên bản đã sửa đổi.
+
+Tên VansonMod, logo, biểu tượng app và nhận diện dự án chính thức là các dấu hiệu nhận diện dự án được bảo vệ. Bên phân phối thứ ba phải nêu rõ trạng thái độc lập, không chính thức và tránh mọi cách trình bày gợi ý sự ủy quyền, tài trợ, chứng thực hoặc liên kết với dự án hay người duy trì.
+
+Xem [Chính sách nhãn hiệu và phân phối](../TRADEMARKS.md) để biết chi tiết.
 
 ---
 

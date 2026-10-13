@@ -105,7 +105,7 @@ Siehe [CONTRIBUTING](./CONTRIBUTING.md) fuer Beitragsregeln und [SECURITY](./SEC
 
 ## Haftungsausschluss
 
-Dieses Tool ist ausschließlich für **Sicherheitsforschung und Reverse-Engineering-Lernen** gedacht. Es darf nicht für illegale Zwecke, unfaire Vorteile oder Datendiebstahl verwendet werden. Alle Abstürze, Datenverluste, Kontobeschränkungen, Geräteprobleme und rechtlichen Folgen liegen vollständig in der Verantwortung des Nutzers.
+Dieses Tool dient der **Sicherheitsforschung, dem Erlernen von Reverse Engineering und autorisierten technischen Tests**. GPL-3.0 erlaubt eine kostenpflichtige Weitergabe bei vollständiger Einhaltung der Lizenz. Verwenden Sie das Tool in rechtmäßigen, autorisierten Umgebungen und beachten Sie die geltenden Regeln der Ziel-Apps und -Systeme. Nutzer tragen die Verantwortung für ihre Handlungen sowie die daraus entstehenden Risiken und rechtlichen Folgen.
 
 ---
 
@@ -118,6 +118,18 @@ Dieses Projekt ist unter GPL-3.0 Open Source. Die Entwicklung basiert auf techni
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Weitergabe und Projektidentität
+
+Offizielle VansonMod-Versionen werden kostenlos über die [Releases](https://github.com/vaenshine/VansonMod/releases)-Seite dieses Repositorys veröffentlicht.
+
+Das Projekt bevorzugt kostenlosen Zugang und kostenlose Weitergabe über offizielle Quellen. Der kostenpflichtige Weiterverkauf unveränderter offizieller Pakete erhält keine Unterstützung oder Autorisierung durch den Maintainer. Die von GPL-3.0 gewährten Weitergaberechte bleiben unverändert.
+
+GPL-3.0 erlaubt Dritten die kostenpflichtige Weitergabe unveränderter oder veränderter Kopien. Distributoren müssen alle anwendbaren GPL-3.0-Pflichten erfüllen, einschließlich der Beibehaltung erforderlicher Hinweise, der Beilage der Lizenz, des Zugangs zum vollständigen korrespondierenden Quellcode und der eindeutigen Kennzeichnung veränderter Versionen.
+
+Der Name VansonMod, das Logo, das App-Symbol und die offizielle Projektidentität sind geschützte Projektkennzeichen. Drittanbieter müssen ihren unabhängigen, inoffiziellen Status klar angeben und Darstellungen vermeiden, die eine Autorisierung, Förderung, Empfehlung oder Verbindung mit dem Projekt oder seinem Maintainer nahelegen.
+
+Einzelheiten enthält die [Marken- und Distributionsrichtlinie](../TRADEMARKS.md).
 
 ---
 

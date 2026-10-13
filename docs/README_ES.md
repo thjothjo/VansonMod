@@ -105,7 +105,7 @@ Consulta [CONTRIBUTING](./CONTRIBUTING.md) para reglas de contribucion y [SECURI
 
 ## Aviso legal
 
-Esta herramienta es solo para **investigación de seguridad y aprendizaje de ingeniería inversa**. No debe usarse para fines ilegales, obtención de beneficio injusto o robo de datos. Cualquier bloqueo, pérdida de datos, restricción de cuenta, fallo del dispositivo o responsabilidad legal derivada del uso corre por cuenta del usuario.
+Esta herramienta está destinada a la **investigación de seguridad, el aprendizaje de ingeniería inversa y las pruebas técnicas autorizadas**. GPL-3.0 permite la redistribución de pago cuando el distribuidor cumple íntegramente la licencia. Utilícela en entornos legales y autorizados y respete las reglas aplicables de las apps y sistemas objetivo. El usuario asume la responsabilidad de sus operaciones, riesgos y consecuencias legales.
 
 ---
 
@@ -118,6 +118,18 @@ Este proyecto es de código abierto bajo GPL-3.0. El desarrollo se basa en inves
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Distribución e identidad del proyecto
+
+Las versiones oficiales de VansonMod se publican gratuitamente en la página de [Releases](https://github.com/vaenshine/VansonMod/releases) de este repositorio.
+
+El proyecto promueve el acceso gratuito y el intercambio gratuito mediante fuentes oficiales. La reventa de pago de paquetes oficiales sin modificar carece de respaldo o autorización del responsable del proyecto. Los derechos de redistribución concedidos por GPL-3.0 permanecen sin cambios.
+
+GPL-3.0 permite a terceros redistribuir copias originales o modificadas por una tarifa. Los distribuidores deben cumplir todas las obligaciones aplicables de GPL-3.0, incluida la conservación de los avisos requeridos, la entrega de la licencia, el acceso al código fuente correspondiente completo y la identificación clara de las versiones modificadas.
+
+El nombre VansonMod, el logotipo, el icono de la app y la identidad oficial del proyecto son identificadores protegidos. Los distribuidores externos deben indicar claramente su condición independiente y no oficial y evitar cualquier presentación que sugiera autorización, patrocinio, respaldo o afiliación con el proyecto o su responsable.
+
+Consulte la [Política de marcas y distribución](../TRADEMARKS.md) para obtener más información.
 
 ---
 

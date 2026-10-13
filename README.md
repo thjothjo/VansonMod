@@ -107,12 +107,12 @@ See [CONTRIBUTING](./CONTRIBUTING.md) for contribution rules and [SECURITY](./SE
 
 ## Disclaimer
 
-This tool is for **security research and reverse engineering learning only**. Please read the following terms carefully before use. By using this tool, you are deemed to have accepted all terms below:
+This tool is intended for **security research, reverse engineering learning, and authorized technical testing**.
 
-*   This project is open source under GPL-3.0 and is intended for security research, reverse engineering learning, and compliant technical testing scenarios.
-*   This tool is a general technical debugging utility. It does not provide targeted features, dedicated methods, or exclusive adaptations for any specific app, and it does not ship with preset targets or custom operation schemes.
-*   It is strictly prohibited to use this tool for commercial profit, to undermine application fairness, to illegally access other systems, to steal data, or for any activity that violates applicable laws, regulations, or public order.
-*   All operations performed with this tool are made independently by the user. Any risks including target app crashes, data loss or corruption, account restrictions or bans, device instability, and all resulting direct or indirect losses and legal responsibilities must be borne by the user alone.
+*   This project is open source under GPL-3.0. Paid redistribution is permitted when the distributor fully complies with GPL-3.0.
+*   This tool is a general technical debugging utility. It does not ship with preset targets or custom operation schemes for specific apps.
+*   Use this tool only in lawful, authorized environments and respect the rules that apply to target apps and systems.
+*   Users are responsible for their operations and for resulting risks, including target app crashes, data loss or corruption, account restrictions, device instability, and legal liability.
 
 ---
 
@@ -125,6 +125,18 @@ This project is open source under GPL-3.0. Development is driven by technical re
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Distribution and Project Identity
+
+Official VansonMod releases are published free of charge through this repository's [Releases](https://github.com/vaenshine/VansonMod/releases) page.
+
+The project's preferred model is free access and free sharing through official sources. Third-party paid resale of unchanged official packages receives no endorsement or authorization from the maintainer. The redistribution rights granted by GPL-3.0 remain unchanged.
+
+GPL-3.0 permits third parties to redistribute modified or unmodified copies for a fee. Distributors must satisfy all applicable GPL-3.0 requirements, including preservation of required notices, delivery of the license, access to the Complete Corresponding Source, and clear identification of modified versions.
+
+The VansonMod name, logo, app icon, and official project identity remain protected project identifiers. Third-party distributors must clearly identify themselves as independent and unofficial and must avoid any presentation that suggests authorization, sponsorship, endorsement, or affiliation with the VansonMod project or its maintainer.
+
+See [Trademark and Distribution Policy](./TRADEMARKS.md) for details.
 
 ---
 
